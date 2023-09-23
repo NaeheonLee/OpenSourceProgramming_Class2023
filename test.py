@@ -1,3 +1,5 @@
 print("hello world")
 print("2023/09/19")
 print("Tuesday")
+print("--------------")
+print("summit date of this assignment", "2023-09-23")
